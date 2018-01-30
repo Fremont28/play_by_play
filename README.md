@@ -9,3 +9,5 @@ Outside of these models, however, it is probably more useful to quantify shot pa
 
 Visualizing possession time and shot distance allows us to explore how teams value different shot types (i.e. three-pointer versus a mid-range jumper) and the shot clock. For example, a team built around power forwards and centers might tend to cluster shots around the basket and draw out the length of a possession whereas a fast tempo small-ball lineup would probably look to spread the court and create quick shots. Of course, the opposite could also be true particularly with today's hybrid-small ball lineup teams.
 
+Read Here: https://beyondtheaverage.wordpress.com/2018/01/23/the-shots-they-took-in-2015/
+
